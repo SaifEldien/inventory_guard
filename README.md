@@ -1,7 +1,8 @@
 # Inventory Guard
 
 > **Digital inventory management & asset tracking platform** — built with Flutter, Firebase, and Clean Architecture.  
-> Track products, warehouses, suppliers, and audit logs from a single dashboard with offline-first support and real-time sync.
+> Track products, warehouses, suppliers, and audit logs from a single dashboard with offline-first support and real-time sync.  
+> **Live demo:** [inventory-guard--oa-test.web.app](https://inventory-guard--oa-test.web.app/)
 
 ![Dashboard](assets/screenshots/dashboard.jpeg)
 
